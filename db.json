@@ -1,10 +1,15 @@
 {
-  "profesor": [
-    { "nombre": "Antonio Machado Ruiz"},
-    { "departamento": "Departamento de Electrónica y Computadores"},
-    { "contacto": "elmoj1m2@uco.es / 957 52 52 52" }
-  ],
-  "QR": [
-    { "id": "http://www.google.es" },
-  ],
+	"profesor": [{
+			"nombre": "Antonio Machado Ruiz"
+		},
+		{
+			"departamento": "Departamento de Electrónica y Computadores"
+		},
+		{
+			"contacto": "elmoj1m2@uco.es / 957 52 52 52"
+		}
+	],
+	"QR": [{
+		"id": "http://www.google.es"
+	}]
 }
