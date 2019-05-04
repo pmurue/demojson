@@ -9,7 +9,7 @@
 			"contacto": "elmoj1m2@uco.es / 957 52 52 52"
 		}
 	],
-	"QR": [{
+	"QR": {
 		"id": "http://www.google.es"
-	}]
+	}
 }
